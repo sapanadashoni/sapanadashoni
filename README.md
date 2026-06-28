@@ -29,3 +29,9 @@
 - Git & Github
 - ReactJs
 - OOP
+
+<table align="center">
+<tr>
+<td><img src="https://leetcard.jacoblin.cool/learnersapana100?theme=dark&font=baloo&ext=heatmap" width="100%"/></td>
+</tr>
+</table>
